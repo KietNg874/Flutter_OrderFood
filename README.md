@@ -1,10 +1,5 @@
 <h1> App Đặt Món Ăn cho Mobile (Food Order Mobile App) </h1>
 
-<h2> Backend: Firebase <br />
-<br />
-Frontend: Flutter </h2>
-
-
 <h3> Trang đăng ký </h3>
 
 <img width="276" height="633" alt="image" src="https://github.com/user-attachments/assets/ee8fd2a0-fd97-4992-9e5f-26f3361499b9" />
