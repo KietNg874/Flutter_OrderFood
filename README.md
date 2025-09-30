@@ -123,7 +123,8 @@ Trang cho phép admin quản lý các đơn hàng. Các đơn hàng được lá
 Admin có thể xem chi tiết đơn hàng hoặc thay đổi trạng thái đơn hàng.
 
  
-Chỉnh sửa trạng thái đơn hàng
+<h3> Chỉnh sửa trạng thái đơn hàng </h3>
+
 <img width="324" height="740" alt="image" src="https://github.com/user-attachments/assets/17b24dd7-3744-45e1-92fc-400616d3b97e" />
 
 Admin có thể cập nhật trạng thái của đơn hàng (ví dụ: "Đang xử lý", "Đã giao hàng") bằng cách chọn trạng thái mới từ menu. Trạng thái mới sau đó được lưu lại vào Firestore.
